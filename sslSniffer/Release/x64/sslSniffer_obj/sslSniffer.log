@@ -1,0 +1,7 @@
+﻿  sniffer.c
+     Creating library C:\wolfssl\Release\x64\sslSniffer.lib and object C:\wolfssl\Release\x64\sslSniffer.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1168 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sslSniffer.vcxproj -> C:\wolfssl\Release\x64\sslSniffer.dll

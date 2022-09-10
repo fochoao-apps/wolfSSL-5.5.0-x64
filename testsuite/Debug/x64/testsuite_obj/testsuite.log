@@ -1,0 +1,8 @@
+﻿  client.c
+  echoclient.c
+  echoserver.c
+  server.c
+  test.c
+  testsuite.c
+  Generating Code...
+  testsuite.vcxproj -> C:\wolfssl\Debug\x64\testsuite.exe

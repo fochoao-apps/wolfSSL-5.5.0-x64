@@ -1,0 +1,4 @@
+^C:\WOLFSSL\WOLFCRYPT\SRC\AES_ASM.ASM
+ml64.exe /c /Zi /Fo"DLL Debug\x64\wolfssl_obj\aes_asm.obj" wolfcrypt\src\aes_asm.asm
+^C:\WOLFSSL\WOLFCRYPT\SRC\SP_X86_64_ASM.ASM
+ml64.exe /c /Zi /Fo"DLL Debug\x64\wolfssl_obj\sp_x86_64_asm.obj" wolfcrypt\src\sp_x86_64_asm.asm

@@ -1,0 +1,2 @@
+^C:\WOLFSSL-5.5.0\WOLFCRYPT\SRC\AES_ASM.ASM
+ml64.exe /DHAVE_FIPS /DHAVE_FIPS_VERSION=5 /DHAVE_FIPS_VERSION_MINOR=1 /c /Zi /Fo"Debug\x64\wolfssl-fips_obj\aes_asm.obj" ..\..\wolfcrypt\src\aes_asm.asm

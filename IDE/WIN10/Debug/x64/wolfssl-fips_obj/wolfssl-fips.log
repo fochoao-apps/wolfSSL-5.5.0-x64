@@ -1,0 +1,84 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.32.31333.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: ..\..\wolfcrypt\src\aes_asm.asm
+  aes.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\aes.h(43,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  asn.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  cmac.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  coding.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  crl.c
+  cpuid.c
+  des3.c
+  dh.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\dh.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  ecc.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  error.c
+  fips.c
+c1 : fatal  error C1083: Cannot open source file: '..\..\wolfcrypt\src\fips.c': No such file or directory
+  fips_test.c
+c1 : fatal  error C1083: Cannot open source file: '..\..\wolfcrypt\src\fips_test.c': No such file or directory
+  hash.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  hmac.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  integer.c
+  internal.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  wolfio.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  kdf.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  keys.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  logging.c
+  Generating Code...
+  Compiling...
+  md5.c
+  memory.c
+  ocsp.c
+  sha3.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha3.h(32,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  wc_port.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\ecc.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  pwdbased.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  random.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  rsa.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  sha.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  sha256.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha256.h(37,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  sha512.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha512.h(37,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  signature.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  ssl.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  tls.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  tls13.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\random.h(35,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  dtls13.c
+  dtls.c
+  wc_encrypt.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\aes.h(43,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  wolfcrypt_first.c
+c1 : fatal  error C1083: Cannot open source file: '..\..\wolfcrypt\src\wolfcrypt_first.c': No such file or directory
+  wolfcrypt_last.c
+c1 : fatal  error C1083: Cannot open source file: '..\..\wolfcrypt\src\wolfcrypt_last.c': No such file or directory
+  Generating Code...
+  Compiling...
+  wolfmath.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  wolfevent.c
+  pkcs12.c
+C:\wolfssl-5.5.0\wolfssl\wolfcrypt\sha.h(36,14): fatal  error C1083: Cannot open include file: 'wolfssl/wolfcrypt/fips.h': No such file or directory
+  Generating Code...

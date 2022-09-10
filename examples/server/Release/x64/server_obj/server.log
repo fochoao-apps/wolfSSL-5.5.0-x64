@@ -1,0 +1,6 @@
+﻿  server.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  server.vcxproj -> C:\wolfssl\Release\x64\server.exe

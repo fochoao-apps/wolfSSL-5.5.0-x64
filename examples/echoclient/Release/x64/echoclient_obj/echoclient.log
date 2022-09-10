@@ -1,0 +1,6 @@
+﻿  echoclient.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1085 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  echoclient.vcxproj -> C:\wolfssl\Release\x64\echoclient.exe

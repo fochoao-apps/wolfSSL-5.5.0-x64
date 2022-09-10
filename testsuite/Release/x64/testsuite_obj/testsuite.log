@@ -1,0 +1,11 @@
+﻿  client.c
+  echoclient.c
+  echoserver.c
+  server.c
+  test.c
+  testsuite.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1591 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  testsuite.vcxproj -> C:\wolfssl\Release\x64\testsuite.exe
